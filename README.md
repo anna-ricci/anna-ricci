@@ -1,4 +1,4 @@
-- 👋 Hi I'm @bobogoesbrr, or just Bobo
+- 👋 Hi I'm @annna-ricci
 - 👀 Curious and ager to learn about everything
-- 🌱 Student of compsci in Italy
+- 🌱 Graduate of compsci in Italy
 - 💞️ proficient in: C, JS and TS
