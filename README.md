@@ -1,4 +1,3 @@
 - 👋 Hi I'm @anna-ricci
 - 👀 Curious and ager to learn about everything
 - 🌱 Graduate of compsci in Italy
-- 💞️ proficient in: C, JS and TS
